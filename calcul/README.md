@@ -16,11 +16,11 @@ compile with dynamic library
 
 ### How to start
 
-####make start
+#### make start
 
 start with static library
 
-####make dyn_start
+#### make dyn_start
 
 start with dynamic library
 
@@ -28,6 +28,6 @@ start with dynamic library
 
 ### How to delete binaries and objects
 
-####make clean
+#### make clean
 
 ---
